@@ -1,0 +1,7 @@
+1. Ligo o primeiro interruptor por alguns minutos e depois desligo.
+2. Ligo o segundo interruptor e vou até a sala das lâmpadas.
+
+Na sala das lâmpadas:
+- A lâmpada acesa é a segundo interruptor, o que ficou ligado por último.
+- A lâmpada apagada, mas quente é a do primeiro interruptor, que foi ligado primeiro e depois desligado.
+- A lâmpada apagada e fria é a do terceiro interruptor, que não liguei em nenhum momento.
